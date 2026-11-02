@@ -45,3 +45,17 @@ nav a {
 nav a:hover {
     color: #D4B483;
 }
+
+@media (max-width: 768px) {
+
+    header {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+}
