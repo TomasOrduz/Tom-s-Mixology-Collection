@@ -8,7 +8,6 @@ body {
 h1, h2 {
     font-family: Georgia, serif;
 }
-/* Navigation Bar */
 
 header {
     background-color: #101010;
@@ -18,8 +17,6 @@ header {
     align-items: center;
     border-bottom: 1px solid #4A1520;
 }
-
-/* Website Logo */
 
 header h2 {
     margin: 0;
