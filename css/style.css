@@ -35,7 +35,6 @@ nav ul {
     margin: 0;
     padding: 0;
 }
-}
 nav a {
     color: #F5F0E8;
     text-decoration: none;
@@ -59,7 +58,7 @@ nav a:hover {
         justify-content: center;
         gap: 15px;
     }
-    
+}
 footer {
     background-color: #101010;
     color: #D4B483;
